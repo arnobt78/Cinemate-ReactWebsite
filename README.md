@@ -1,6 +1,9 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Cinemate-ReactWebsite
+
+Cinemate is a full-fledged React Movie information web-application using TailwindCSS and the help of Flowbite TailwindCSS framework. React Core, Hooks, APIs (TMDB), Routing, HTML, TailwindCSS, Responsive Screen, Dark/Light Mode, and Search functionalities have been used in this project.
+
+This webpage can be seen by using this URL: https://cinemate-arnob.netlify.app
 
 ## Available Scripts
 
