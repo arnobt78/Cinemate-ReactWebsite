@@ -1,9 +1,39 @@
 
 ## Cinemate-ReactWebsite
 
-Cinemate is a full-fledged React Movie information web-application using TailwindCSS and the help of Flowbite TailwindCSS framework. React Core, Hooks, APIs (TMDB), Routing, HTML, TailwindCSS, Responsive Screen, Dark/Light Mode, and Search functionalities have been used in this project.
+Cinemate is a full-fledged React Movie information web-application using TailwindCSS and the help of Flowbite TailwindCSS framework. React Core, Hooks, APIs (TMDB), Routing, HTML, TailwindCSS, Responsive Screen, Dark/Light Mode, and Search functionalities have been used in this project and deployed on Netlify.
 
 This webpage can be seen by using this URL: https://cinemate-arnob.netlify.app
+
+## To Install Dependences
+
+Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
+
+## To install React-Router 
+
+Open up your terminal and bootstrap a new React app by: npx create-react-app
+
+Then go to that project folder, and write this command via terminal from your project folder: npm install react-router-dom
+
+(To check for more details about React-Router, please visit: https://reactrouter.com/en/main )
+
+## To install TailwindCSS
+
+To install TailwindCSS, please check this instruction via their offical website: https://tailwindcss.com/docs/installation
+
+## To install Flowbite (TailwindCSS Framework)
+
+To install TailwindCSS, please check this instruction via their offical website: https://flowbite.com/docs/getting-started/quickstart/
+
+## To Use TMDB API (The Movie DB API)
+
+To use TMDB API, please check this instruction via their offical website: https://www.themoviedb.org/
+
+You must create an account in TMDB then Generate an API key via your account: https://www.themoviedb.org/settings/api
+
+Which you will need it for your movie project to fetch the imdb movie information via TMDB server.
+
+For the info about how to build an image URL from TMDB server: https://developer.themoviedb.org/docs/image-basics
 
 ## Available Scripts
 
