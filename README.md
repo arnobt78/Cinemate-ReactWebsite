@@ -9,7 +9,11 @@ This webpage can be seen by using this URL: https://cinemate-arnob.netlify.app
 
 Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
 
-## To install React-Router 
+## To Install NodeJS
+
+Make sure you have NodeJS installed in your machine first, The installation instructions are here: https://nodejs.org/en/
+
+## To Install React-Router 
 
 Open up your terminal and bootstrap a new React app by: npx create-react-app
 
