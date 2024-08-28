@@ -35,7 +35,7 @@ Which you will need it for your movie project to fetch the imdb movie informatio
 
 For the info about how to build an image URL from TMDB server: https://developer.themoviedb.org/docs/image-basics
 
-## .env
+## About .env File
 
 you must create an .env file in your project folder and save your TMDB API key.
 
