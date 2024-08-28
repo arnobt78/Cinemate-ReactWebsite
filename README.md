@@ -35,6 +35,12 @@ Which you will need it for your movie project to fetch the imdb movie informatio
 
 For the info about how to build an image URL from TMDB server: https://developer.themoviedb.org/docs/image-basics
 
+## .env
+
+you must create an .env file in your project folder and save your TMDB API key.
+
+Example: REACT_APP_API_KEY=<api-key>
+
 ## Available Scripts
 
 In the project directory, you can run:
