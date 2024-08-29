@@ -23,9 +23,9 @@ Make sure you have NodeJS installed in your machine first, The installation inst
 
 ## To Install React-Router 
 
-Open up your terminal and bootstrap a new React app by: npx create-react-app
+Open up your terminal and bootstrap a new React app by: `npx create-react-app`
 
-Then go to that project folder, and write this command via terminal from your project folder: npm install react-router-dom
+Then go to that project folder, and write this command via terminal from your project folder: `npm install react-router-dom`
 
 (To check for more details about React-Router, please visit: https://reactrouter.com/en/main )
 
