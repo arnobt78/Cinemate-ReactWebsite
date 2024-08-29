@@ -51,7 +51,7 @@ For the info about how to build an image URL from TMDB server: https://developer
 
 you must create an .env file in your project folder and save your TMDB API key.
 
-Example: REACT_APP_API_KEY=<api-key>
+Example: REACT_APP_API_KEY="api-key"
 
 ## Available Scripts
 
