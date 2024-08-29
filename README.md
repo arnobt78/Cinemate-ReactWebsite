@@ -7,7 +7,9 @@
 
 ## Cinemate-ReactWebsite
 
-Cinemate is a full-fledged React Movie information web-application using TailwindCSS and the help of Flowbite TailwindCSS framework. React Core, Hooks, APIs (TMDB), Routing, HTML, TailwindCSS, Responsive Screen, Dark/Light Mode, and Search functionalities have been used in this project and deployed on Netlify. "useContext" and "useReducers" have been employed in this React project; "Redux" and "Redux-Toolkit" have not been used here.
+Cinemate is a full-fledged React Movie information web-application using TailwindCSS and the help of Flowbite TailwindCSS framework. React Core, Hooks, APIs (TMDB), Routing, HTML, TailwindCSS, Responsive Screen, Dark/Light Mode, and Search functionalities have been used in this project and deployed on Netlify.
+
+Note: "useContext" and "useReducers" have been employed in this React project; "Redux" and "Redux-Toolkit" have not been used here.
 
 This webpage can be seen by using this URL: https://cinemate-arnob.netlify.app
 
