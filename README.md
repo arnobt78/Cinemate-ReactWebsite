@@ -25,11 +25,11 @@ Then go to that project folder, and write this command via terminal from your pr
 
 (To check for more details about React-Router, please visit: https://reactrouter.com/en/main )
 
-## To install TailwindCSS
+## To Install TailwindCSS
 
-To install TailwindCSS, please check this instruction via their offical website: https://tailwindcss.com/docs/installation
+To install TailwindCSS, please check this instruction via their official website: https://tailwindcss.com/docs/installation
 
-## To install Flowbite (TailwindCSS Framework)
+## To Install Flowbite (TailwindCSS Framework)
 
 To install TailwindCSS, please check this instruction via their official website: https://flowbite.com/docs/getting-started/quickstart/
 
